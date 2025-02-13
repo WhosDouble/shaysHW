@@ -7,7 +7,7 @@ This is a cops and robbers simulation where you decide whether to rob a bank or 
 - true → Start the heist! Try to get away with the money.
 - false → Be a good citizen and relax instead.
 ## Outcomes
-- If robbers outnumber cops → You win and escape with cash! (Clicking "OK" takes you to a surprise video.)
+- If robbers outnumber cops → You win and escape with cash! 
 - If cops outnumber robbers → You lose and go to jail.
 ## How to Play
 - Open the JavaScript file.
