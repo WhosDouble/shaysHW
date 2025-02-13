@@ -13,7 +13,7 @@ This is a cops and robbers simulation where you decide whether to rob a bank or 
 - Open the JavaScript file.
 - Find runProgram(false); at the bottom.
 - Change false to true if you want to attempt a heist.
-- Run the script and see what happens!
+- Run the script and see what happens! (make sure the script is linked to html if applicable)
 
 how long can your crime spree last???
 
