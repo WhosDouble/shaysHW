@@ -16,3 +16,5 @@ This is a cops and robbers simulation where you decide whether to rob a bank or 
 - Run the script and see what happens!
 
 ### Thank you Shay for giving me this project it was super fun to make
+
+ps. might add on to this if im ever bored like a system to track how much money you have collected maybe a bond system so you can avoid jail and try again and if im crazy ill jsut make it a full fledge game with shops etc
